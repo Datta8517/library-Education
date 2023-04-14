@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'LibrarySCOE'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17E8B2AAFBF04408A5E8E2B6FDCDD411 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD116EC002B640F7A962A9D499F477B9 }}
           package: .
